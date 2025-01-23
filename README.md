@@ -29,3 +29,9 @@
 + add_to_data是用来将前面爬取的html解析并且将最后一列补充进去的脚本
 
 + final_html文件夹是用来存储最终版html的目录
+
++ about.py文件是用来爬取about信息的python脚本
+
++ basic_about_info.xlsx用来存储前几列的信息
+
++ get_detail.py是用来爬取最后细节的脚本
